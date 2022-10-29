@@ -1,0 +1,13 @@
+{
+  "name": "backend_stage_1",
+  "version": "1.0.0",
+  "description": "A simple web server",
+  "scripts": {
+    "start": "node src"
+  },
+  "main": "index.js",
+  "author": "Daniel Farayola",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {}
+}
